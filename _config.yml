@@ -1,10 +1,10 @@
 # Site settings
 title: Takagotch
-subtitle: "Journal of [name]"
-email: your-email@domain.com
+subtitle: "Journal of Takagotch"
+email: m.me/tkgcci
 description: "Make the footer happy by entering a short description about yourself here"
-baseurl: ""
-url: "https://takagotch.github.io/page50/"
+baseurl: "https://takagotch.github.io/page50"
+url: "https://takagotch.github.io/page50"
 twitter_username: "takagotch"
 github_username:  "takagotch"
 instagram_username: "takagotch"
